@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Faav</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/52789876/114120711-054a6500-98bb-11eb-92f2-33bb7d0cd41d.png" />
+<img src="https://user-images.githubusercontent.com/52789876/115129719-95249900-9fb6-11eb-9069-b78f1306d9bf.png" />
   </p>
 <p align="center">
   <a href="https://www.faav.tk">Website</a> •
