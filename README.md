@@ -7,3 +7,6 @@
   <a href="https://twitter.com/FaavXD">Twitter</a> •
   <a>Discord: Faav#0130</a>
 </p>
+<p align="center">
+<img src="https://gpvc.arturio.dev/withdrew" />
+  </p>
