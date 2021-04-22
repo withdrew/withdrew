@@ -7,3 +7,4 @@
   <a href="https://twitter.com/FaavXD">Twitter</a> •
   <a>Discord: Faav#0130</a>
 </p>
+![](https://hit.yhype.me/github/profile?user_id=52789876)
