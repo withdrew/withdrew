@@ -8,7 +8,7 @@
   <a>Discord: Faav#0130</a>
 </p>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/withdrew" /><br>
+  <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=withdrew&show_icons=true&locale=en&theme=dark" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=withdrew&theme=dark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=withdrew&layout=compact&theme=dark" />
