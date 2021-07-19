@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=withdrew&show_icons=true&locale=en&theme=vision-friendly-dark" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=withdrew&theme=vision-friendly-dark" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=withdrew&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=withdrew&show_icons=true&locale=en&theme=ayu-mirage" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=withdrew&theme=ayu-mirage" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=withdrew&layout=compact&theme=ayu-mirage" />
   </p>
