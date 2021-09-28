@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.faav.tk">Website</a> •
   <a href="https://twitter.com/FaavXD">Twitter</a> •
-  <a>Discord: Faav#0130</a>
+  <a>Discord: Faav#0001</a>
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
