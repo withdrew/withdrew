@@ -4,7 +4,7 @@
   </p>
 <p align="center">
   <a href="https://www.faav.tk">Website</a> •
-  <a href="https://twitter.com/FaavXD">Twitter</a> •
+  <a href="https://twitter.com/diploblastic">Twitter</a> •
   <a>Discord: Faav#0001</a>
 </p>
 <p align="center">
