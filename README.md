@@ -4,7 +4,7 @@
   </p>
 <p align="center">
   <a href="https://faav.gapple.pw">My API</a> •
-  <a href="https://twitter.com/faavlol">Twitter</a> •
+  <a href="https://twitter.com/wraparounds">Twitter</a> •
   <a>Discord: Faav#6320</a>
 </p>
 <p align="center">
