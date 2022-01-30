@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://faav.gapple.pw">My API</a> •
   <a href="https://twitter.com/wraparounds">Twitter</a> •
-  <a href="https://mcuserna.me">MC User Lookup</a> •
+  <a href="https://mcuserna.me">MC User Search</a> •
   <a>Discord: Faav#6320</a>
 </p>
 <p align="center">
