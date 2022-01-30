@@ -8,8 +8,8 @@
   <a>Discord: Faav#6320</a>
 </p>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=withdrew&show_icons=true&locale=en&theme=gotham" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=withdrew&theme=gotham" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=withdrew&layout=compact&theme=gotham" />
+  <img src="https://gpvc.arturio.dev/bribes" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
   </p>
