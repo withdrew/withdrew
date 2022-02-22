@@ -3,9 +3,10 @@
 <img src="https://user-images.githubusercontent.com/52789876/117721319-b8a1c480-b1ad-11eb-9117-d523028f4ea2.png" />
   </p>
 <p align="center">
+  <a href="https://gj.neocities.org">My Site</a> •
   <a href="https://faav.gapple.pw">My API</a> •
   <a href="https://twitter.com/wraparounds">Twitter</a> •
-  <a href="https://mcuserna.me">MC Account Lookup</a>
+  <a href="https://mcuserna.me">mcuserna.me</a>
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
