@@ -5,10 +5,10 @@
 <p align="center">
   <a href="https://faav.gapple.pw">My API</a> •
   <a href="https://twitter.com/wraparounds">Twitter</a> •
-  <a href="https://mcuserna.me">MC User Search</a> •
-  <a>Discord: Faav#6320</a>
+  <a href="https://mcuserna.me">MC Account Lookup</a> •
 </p>
 <p align="center">
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/394250946898690049)](https://discord.com/users/786352301539196969)
   <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br><br>
