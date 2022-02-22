@@ -13,4 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
-  </p>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+</p>
