@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://faav.gapple.pw">My API</a> •
   <a href="https://twitter.com/wraparounds">Twitter</a> •
-  <a href="https://mcuserna.me">MC Account Lookup</a> •
+  <a href="https://mcuserna.me">MC Account Lookup</a>
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
