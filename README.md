@@ -10,8 +10,9 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" />
   <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
-</p>
   <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" /><br>
+  <h1>Stats</h1>
+</p>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
