@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Faav</h3>
+<h3 align="center">👋 Hey there! I'm Faav</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52789876/117721319-b8a1c480-b1ad-11eb-9117-d523028f4ea2.png" />
   </p>
@@ -6,12 +6,11 @@
   <a href="https://gj.neocities.org">My Site</a> •
   <a href="https://faav.gapple.pw">My API</a> •
   <a href="https://mcuserna.me">mcuserna.me</a>
-</p>
-<p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" />
   <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
   <img src="https://img.shields.io/github/followers/bribes.svg?style=social&label=Follow&maxAge=2592000" /><br><br>
   <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" />
+  👋 i'm faav. i am a web developer that mainly uses js. coding is my passion!
 </p>
   <h1>Stats</h1>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
