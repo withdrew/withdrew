@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://gj.neocities.org">My Site</a> •
   <a href="https://faav.gapple.pw">My API</a> •
-  <a href="https://mcuserna.me">mcuserna.me</a>
+  <a href="https://mcuserna.me">mcuserna.me</a><br>
   <img src="https://gpvc.arturio.dev/withdrew" />
   <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
   <img src="https://img.shields.io/github/followers/bribes.svg?style=social&label=Follow&maxAge=2592000" /><br><br>
