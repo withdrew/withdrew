@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
   <img src="https://img.shields.io/github/followers/bribes.svg?style=social&label=Follow&maxAge=2592000" /><br><br>
   <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" />
-  <h1>Stats</h1>
-</p>
+  <h1 align="center">Stats</h1>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
   <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
   <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake.svg" alt="snake"></a>
+</p>
