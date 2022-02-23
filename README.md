@@ -1,9 +1,6 @@
 <h3 align="center">👋 hey there! i'm Faav</h3>
-<h6 align="center">i am a web developer that mainly uses js. coding is my passion!</h6>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/52789876/117721319-b8a1c480-b1ad-11eb-9117-d523028f4ea2.png" />
-  </p>
-<p align="center">
+<p align="center">i am a web developer that mainly uses js. coding is my passion!<br><br>
+<img src="https://user-images.githubusercontent.com/52789876/117721319-b8a1c480-b1ad-11eb-9117-d523028f4ea2.png" /><br><br>
   <a href="https://gj.neocities.org">My Site</a> •
   <a href="https://faav.gapple.pw">My API</a> •
   <a href="https://mcuserna.me">mcuserna.me</a><br><br>
