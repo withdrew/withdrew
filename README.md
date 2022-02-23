@@ -7,7 +7,7 @@
   <img src="https://gpvc.arturio.dev/withdrew" />
   <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
   <img src="https://img.shields.io/github/followers/bribes.svg?style=social&label=Follow&maxAge=2592000" /><br><br>
-  <img width=500 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" />
+  <img width=450 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" />
 </p>
   <h1>Stats</h1>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
