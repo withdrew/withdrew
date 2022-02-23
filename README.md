@@ -5,12 +5,12 @@
 <p align="center">
   <a href="https://gj.neocities.org">My Site</a> •
   <a href="https://faav.gapple.pw">My API</a> •
-  <a href="https://twitter.com/wraparounds">Twitter</a> •
   <a href="https://mcuserna.me">mcuserna.me</a>
 </p>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
-</0p>
+  <img src="https://gpvc.arturio.dev/withdrew" />
+  <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
+</p>
   <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" /><br>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br><br>
