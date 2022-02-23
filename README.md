@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" /><br><br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" /><br><br>
+  <img width=500 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
