@@ -14,7 +14,7 @@
   <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" />
   <h1>Stats</h1>
 </p>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
+  <img width=425 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake.svg" alt="snake"></a>
