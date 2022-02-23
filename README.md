@@ -9,8 +9,8 @@
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/withdrew" />
-  <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" />
-  <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" /><br>
+  <img src="https://img.shields.io/twitter/follow/wraparounds.svg?style=social" /><br>
+  <img width=400 src="https://lanyard-profile-readme.vercel.app/api/394250946898690049" />
   <h1>Stats</h1>
 </p>
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br><br>
