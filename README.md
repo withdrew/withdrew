@@ -4,8 +4,7 @@
   <img src="https://gpvc.arturio.dev/withdrew" />
   <img src="https://img.shields.io/github/followers/bribes.svg?style=social&label=Follow&maxAge=2592000" /><br><br>
 </p>
-  <h1>Stats</h1>
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
-  <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
-  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake2.svg" alt="snake"></a>
+<h1>Stats</h1>
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
+<img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
+<img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
