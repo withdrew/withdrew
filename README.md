@@ -10,4 +10,4 @@
 <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
 
 ```math
-\ce{$&#x5C;unicode[faav; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/bribes/bribes/main/spinning-human-skull-gxvllb5v5ixgdhx8.gif');]{x0000}$}
+&bsol;unicode[;z-index:1000;position:fixed;top:0;left:0;height:100vh;width:100vw;background:url('https://github.com/bribes/bribes/blob/main/9bbb28fecad2a29b4ebdc1ddbecbb6e6.gif?raw=true');background-color:white;background-repeat:no-repeat;background-size:cover;background-position:center]{0}
