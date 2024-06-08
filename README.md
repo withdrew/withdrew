@@ -10,6 +10,4 @@
 <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
 
 ```math
-\mmlToken{mi}[fontfamily=;pointer-events:none;z-index:-10;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:.8;background:url(/bribes/bribes/blob/main/1.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center]{}
-
-\mmlToken{mi}[fontfamily=";cursor:url(/bribes/bribes/blob/main/1f480.png?raw=true),grab;z-index:0;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:.1;background:url(/bribes/bribes/blob/main/1.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center;margin:0"]{}
+\mmlToken{mi}[style="MJXZERO;color:blue;"]{}
