@@ -8,6 +8,3 @@
 <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
 <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
 <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
-
-```math
-\mmlToken{mi}[style="blah;color:blue;" fontfamily=sans-serif class=mjx-tex]{}
