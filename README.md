@@ -8,4 +8,9 @@
 <img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
 <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
 <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake-dark.svg">
+     <img src="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake.svg" alt="snake">
+  </picture>
+</a>
