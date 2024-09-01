@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/github/followers/bribes.svg?style=social&label=Follow&maxAge=2592000" /><br><br>
 </p>
 <h1>Stats</h1>
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=gotham" /><br>
-<img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=gotham" /><br>
-<img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=gotham" />
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=bribes&show_icons=true&locale=en&theme=transparent" /><br>
+<img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bribes&theme=transparent" /><br>
+<img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=bribes&layout=compact&theme=transparent" />
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bribes/bribes/output/github-contribution-grid-snake-dark.svg">
